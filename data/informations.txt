@@ -1,0 +1,4 @@
+Firstame    Surname     Age     Phone     
+Bob         Doe         18      077778778
+Jane        Smith       24      077776666
+Alice       Jones       35      066556657
