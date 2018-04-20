@@ -9,3 +9,9 @@ It introduce the concept of hash table (dictionaries), defensive programming,
 numpy and matplotlib usage, how to deal with physical quantities and a short
 introduction to the pandas library.
 
+Feedback form
+=============
+
+* https://goo.gl/forms/YZJ05PzX9tPFEtuV2
+* Shorten URL: https://bit.ly/2xP95Ef
+
