@@ -15,3 +15,31 @@ Feedback form
 * https://goo.gl/forms/YZJ05PzX9tPFEtuV2
 * Shorten URL: https://bit.ly/2xP95Ef
 
+Instructor Notes
+================
+
+Spyder tricks
+~~~~~~~~~~~~~
+
+* Modification of the size of the ipython console panel is done:
+
+  1. By going in::
+
+    tools/preferences/ipython console/display tab/font style
+
+  2.
+    - By increasing the font size using the following key combinaisons::
+
+        ctrl + +
+
+    or::
+
+        ctrl + shift + =
+
+    - to decrease the font size::
+
+        ctrl + -
+
+* To send and execute the line or the selection::
+
+        F9
