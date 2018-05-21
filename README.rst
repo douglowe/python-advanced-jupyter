@@ -9,6 +9,12 @@ It introduce the concept of hash table (dictionaries), defensive programming,
 numpy and matplotlib usage, how to deal with physical quantities and a short
 introduction to the pandas library.
 
+
+Slides
+======
+
+* https://github.com/UoMResearchIT/python-advanced-jupyter/blob/master/Slides.ipynb
+
 Feedback form
 =============
 
