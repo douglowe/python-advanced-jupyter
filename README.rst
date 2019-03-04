@@ -2,10 +2,10 @@
 Advanced python course
 ======================
 
-This repository contains jupyter lessons and data for an advanced class for python.
+This repository contains the jupyter lessons and data for the advanced class in python.
 
-The lessons are starting with a reminder of python essential.
-It introduce the concept of hash table (dictionaries), defensive programming,
+The lessons begin with a reminder of the python essentials.
+It then introduces the concept of hash tables (dictionaries), defensive programming,
 numpy and matplotlib usage, how to deal with physical quantities and a short
 introduction to the pandas library.
 
@@ -13,7 +13,7 @@ introduction to the pandas library.
 Slides
 ======
 
-* https://github.com/UoMResearchIT/python-advanced-jupyter/blob/master/Slides.ipynb
+* https://github.com/AnnAnnFryingPan/python-advanced-jupyter
 
 Feedback form
 =============
@@ -31,7 +31,7 @@ Spyder tricks
 
   1. By going in::
 
-    tools/preferences/ipython console/display tab/font style
+    tools/preferences/general/appearance/fonts
 
   2.
     - By increasing the font size using the following key combinaisons::
