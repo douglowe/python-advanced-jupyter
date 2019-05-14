@@ -13,7 +13,7 @@ introduction to the pandas library.
 Slides
 ======
 
-* https://github.com/AnnAnnFryingPan/python-advanced-jupyter
+* https://slides.com/anngledson/programming-python-advanced#/
 
 Feedback form
 =============
