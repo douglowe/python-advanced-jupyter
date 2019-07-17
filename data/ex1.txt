@@ -1,0 +1,2 @@
+A line we want to save in a file
+Another line
