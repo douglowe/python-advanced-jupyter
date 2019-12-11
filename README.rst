@@ -47,6 +47,10 @@ Setup Instructions (PC Cluster)
   
       cd C:\Work\python-programming
   
+     or::
+     
+      cd C:\Work\python-programming\python-advanced-jupyter-master
+  
   3. Start Jupyter server::
   
       jupyter notebook
