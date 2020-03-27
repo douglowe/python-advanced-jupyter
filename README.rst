@@ -13,7 +13,10 @@ introduction to the pandas library.
 Slides
 ======
 
-* https://slides.com/douglowe/advanced-python/#/
+* Local Teaching:
+  https://slides.com/douglowe/advanced-python/#/
+* Remote Teaching:
+  https://slides.com/douglowe/advanced-python-remote-teaching/#/
 
 Feedback form
 =============
